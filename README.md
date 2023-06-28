@@ -2,7 +2,7 @@
 
 Run inference on the replit code instruct model using your CPU. This inference code uses a [ggml](https://github.com/ggerganov/llama.cpp) quantized model. To run the model we'll use a library called [ctransformers](https://github.com/marella/ctransformers) that has bindings to ggml in python.
 
-**[Colab Link](https://colab.research.google.com/drive/1238AVZnvsXjVj0RnjcxGX6L2z3Z8erNO?usp=sharing)**
+### **[Colab Link](https://colab.research.google.com/drive/1238AVZnvsXjVj0RnjcxGX6L2z3Z8erNO?usp=sharing)**
 
 Demo:
 
